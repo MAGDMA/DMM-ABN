@@ -1,0 +1,24 @@
+{
+  "name": "dmm-abn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAGDMA/DMM-ABN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MAGDMA/DMM-ABN/issues"
+  },
+  "homepage": "https://github.com/MAGDMA/DMM-ABN#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
